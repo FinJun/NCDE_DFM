@@ -12,7 +12,7 @@ The dataset consists of historical stock price data. The project includes data p
 ## Project Structure
 
 ```
-stock_prediction/
+NCDE_DFM/
 ├── data/
 │   ├── raw/                # Raw data files (e.g., downloaded stock data)
 │   ├── processed/          # Processed data files (e.g., log returns, scaled data)
