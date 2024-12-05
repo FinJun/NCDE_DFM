@@ -1,4 +1,4 @@
-# Stock Prediction using Neural CDE, Linear Regression, and LSTM
+# Dynamic Factor Model with Neural CDE in Stock Market
 
 This project aims to predict stock returns using three models:
 1. **Neural Controlled Differential Equations (Neural CDE)**
